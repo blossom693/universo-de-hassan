@@ -1,0 +1,35 @@
+UN PEQUEÑO UNIVERSO PARA HOY — 35 RECUERDOS
+
+CONTENIDO
+  31 fotografías personales (optimización web, sin metadatos EXIF)
+  4 videos personales (versiones optimizadas, sin metadatos de origen)
+  35 curiosidades científicas verificadas con enlaces a NASA
+  Una página interactiva: Luna, estrellas, miniaturas, filtros, botón al azar y pantalla final
+
+CÓMO VERLA
+1. Descomprime el ZIP completo.
+2. Abre index.html con Chrome, Firefox o Edge.
+3. Mantén la carpeta media junto a index.html. Los recuerdos y videos funcionan sin Internet.
+4. Cada «Consultar la fuente científica» abre un sitio de NASA (requiere Internet).
+
+CÓMO SUBIRLA A GITHUB PAGES
+1. NO publiques sin el consentimiento de las personas que aparecen en las imágenes o videos.
+2. Entra a https://github.com/Valentina-Pechieu/valentina-pechieu.github.io
+3. En el repositorio, crea una carpeta nueva llamada universo-recuerdos.
+4. Sube DENTRO de esa carpeta index.html y la carpeta media con todos sus archivos.
+5. Guarda los cambios (Commit changes). GitHub Pages puede tardar varios minutos en actualizarse.
+6. URL prevista: https://valentina-pechieu.github.io/universo-recuerdos/
+   (si GitHub Pages publica desde la rama main, carpeta /).
+
+PRIVACIDAD
+Este proyecto NO se ha publicado. GitHub Pages es accesible públicamente: cualquier persona
+con el enlace puede ver y guardar las fotografías y videos. El repositorio de GitHub Pages
+publicado también permite acceder a archivos directamente.
+Los archivos media contienen COPIAS comprimidas. Tus originales no se han modificado.
+
+DATOS CIENTÍFICOS
+Todas las citas se encuentran debajo de cada recuerdo y apuntan directamente a NASA.
+Los datos son breves, se han comprobado con páginas oficiales, y no son citas literales extensas.
+
+PARA CORREGIR O CAMBIAR LOS RECUERDOS
+Edita el array const items del archivo index.html. Los archivos media son locales.
